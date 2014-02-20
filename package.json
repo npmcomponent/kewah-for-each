@@ -1,0 +1,11 @@
+{
+  "name": "kewah-for-each",
+  "description": "Iterates an array",
+  "version": "0.1.1",
+  "keywords": [
+    "forEach",
+    "array"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
